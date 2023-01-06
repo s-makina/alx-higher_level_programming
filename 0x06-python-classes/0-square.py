@@ -1,5 +1,7 @@
 #!/usr/bin/python3
+# 0-square.py by Ehoneah Obed
+
 
 class Square:
-    """methods and properties goes here"""
+    """Properties and methods goes here"""
     pass
