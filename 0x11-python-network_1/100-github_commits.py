@@ -1,3 +1,8 @@
+#!/usr/bin/python3
+"""School staff evaluates candidates
+- applying for a back-end position
+- with multiple technical challenges,
+- like this one:"""
 import requests
 import sys
 
